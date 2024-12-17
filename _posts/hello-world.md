@@ -1,19 +1,17 @@
 ---
-title: "Learn How to Pre-render Pages Using Static Generation with Next.js"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
-author:
-  name: Tim Neutkens
-  picture: "/assets/blog/authors/tim.jpeg"
+title: "Computer Science"
+excerpt: "If you’re thinking about pursuing a bachelor’s degree in computer science, expect to dive into high-level math courses like algebra, trigonometry, and calculus, which are integral to understanding computational theory. Alongside these math-centric subjects, your curriculum will likely feature programming languages such as C++ and Java.
+"
+coverImage: "https://i.imghippo.com/files/Ohl5860ms.jpg"
+date: "2024-12-04T05:35:07.322Z"
+  
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "https://i.imghippo.com/files/Ohl5860ms.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Typical Computer Science Courses
+If you’re thinking about pursuing a bachelor’s degree in computer science, expect to dive into high-level math courses like algebra, trigonometry, and calculus, which are integral to understanding computational theory. Alongside these math-centric subjects, your curriculum will likely feature programming languages such as C++ and Java.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+As you go further into your computer science studies, courses expand to include those related to studying algorithms, logic, problem-solving, and computer ethics, as well as programming languages. Your course load will combine practical applications (such as database design and computer architecture) and theoretical concepts. In addition, a computer science program encourages students to develop a concentration to help them carve out a career path. These competencies can range from software-focused (including engineering and testing) to application development, encompassing mobile apps, web applications, or even video games. 
 
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+A master’s in computer science takes you even deeper into programming and analysis of complex software systems, alongside weaving in elements of cybersecurity, threat identification, and response. Master’s programs typically include hands-on project-based learning, giving you opportunities to apply your skills. 
