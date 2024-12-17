@@ -1,6 +1,7 @@
 ---
 title: Computer Science vs Cyber Security
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+excerpt: "If you have a love for technology and solving complex problems, cybersecurity and computer science offer exciting career opportunities. It’s not so much a matter of “cybersecurity vs. computer science,” but rather, which discipline speaks more to your personal career goals, strengths, and passions – as there is considerable overlap between these two areas. 
+"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2024-12-04T05:35:07.322Z"
 author:
