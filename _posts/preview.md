@@ -1,19 +1,18 @@
 ---
-title: "Preview Mode for Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/preview/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
-author:
-  name: Joe Haddad
-  picture: "/assets/blog/authors/joe.jpeg"
+title: "Cyber Security"
+excerpt: "If you plan on studying cybersecurity, you can look forward to a course load emphasizing foundation technologies, such as networking, operating systems, and programming. 
+"
+coverImage: "https://i.imghippo.com/files/TWLF3345llU.jpg"
+date: "2024-12-04T05:35:07.322Z"
+
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "https://i.imghippo.com/files/TWLF3345llU.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Typical Cybersecurity Courses
+If you plan on studying cybersecurity, you can look forward to a course load emphasizing foundation technologies, such as networking, operating systems, and programming. 
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Building on these fundamentals, individuals pursuing a Bachelor of Science in Cybersecurity delve deeper into more specialized courses, such as system security architecture principles as well as more specific system administration for operating systems such as Windows and Linux. Students will also build their knowledge of such subdisciplines as ethical hacking (also known as penetration testing), cyber threat intelligence, and policy development, including incident handling and response. 
 
-## Lorem Ipsum
+Those pursuing a master’s degree in cybersecurity can advance their skillset via courses and hands-on projects in cybersecurity, as well as learn the finer points of threat modeling and more. In addition to more advanced fundamentals spanning various aspects of cybersecurity, those pursuing a master’s in this discipline can consider a specific area of focus to specialize in. For instance, some areas of specialization can include ethical hacking – poking at various systems and software to conduct a risk assessment, finding vulnerabilities that could potentially be exploited by malicious (or unethical) hackers – or enterprise cybersecurity management. 
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
