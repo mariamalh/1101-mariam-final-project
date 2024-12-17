@@ -6,7 +6,7 @@ const Header = () => {
       <Link href="/" className="hover:underline">
         Computer science and Cyber Security
       </Link>
-      .
+      
     </h2>
   );
 };
