@@ -1,6 +1,6 @@
 import cn from "classnames";
 import Link from "next/link";
-import Image from "next/image";
+import Image from "https://i.imghippo.com/files/uCS5939XmY.webp";
 
 type Props = {
   title: string;
